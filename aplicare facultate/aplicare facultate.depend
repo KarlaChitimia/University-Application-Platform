@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1623985030 source:d:\faculta things\stagiu practica\c++\aplicare facultate\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<sstream>
+	<stdlib.h>
+	<conio.h>
+	<vector>
+	<string>
+	<cstring>
+	<cctype>
+	<algorithm>
+

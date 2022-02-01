@@ -1,0 +1,7 @@
+Mane,15,Manevra,10,Universitatea De Vest Timisoara,Facultatea de Matematica si Informatica,Informatica Aplicata
+Karla cu K,12,Vulcani,9.5,Universitatea De Vest Timisoara,Facultatea de Matematica si Informatica,Informatica Aplicata
+Ema,12,Scoala Vietii,10,Universitatea Babes Bolyai,Facultatea de Matematica si Informatica,Informatica Aplicata
+Matei Andrei,9,CNIV,10,Universitatea de vest timisoara,facultatea de matematica si informatica,informatica aplicata
+Mane Barosane,66,Scoala Vietii,15,universitatea de vest timisoara,facultatea de sport,basket
+Zumbra,19,ltmv,9.9,Universitatea bucuresti,facultatea de sport,baseball
+maria,23,agricol,6,Universitatea alexandru ioan cuza iasi,psihologie,psihologia moderna

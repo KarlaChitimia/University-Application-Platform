@@ -1,0 +1,8 @@
+Informatica Aplicata,Informatica Romana,Informatica Engleza
+Limbi Moderne,Limba Germana,Literatura
+Psihologia Moderna,Altceva cu Psihologie
+Istoria Romaniei,Istorie Europeana,Istorie Antica
+Media Digitala,Management
+Muzica Clasica,Canto,Muzica de Orchestra
+Kineto-terapie,Basket,Baseball
+

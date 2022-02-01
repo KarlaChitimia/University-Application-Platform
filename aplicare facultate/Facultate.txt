@@ -1,0 +1,7 @@
+Facultatea de Matematica si Informatica,Informatica Aplicata,Informatica Romana,Informatica Engleza
+Facultatea de Litere,Limbi Moderne,Limba Germana,Literatura
+Facultatea de Psihologie,Psihologia Moderna,Altceva cu Psihologie
+Facultatea de Istorie,Istoria Romaniei,Istorie Europeana,Istorie Antica
+Facultatea de Stiinte Politice,Media Digitala,Management
+Facultatea de Muzica,Muzica Clasica,Canto,Muzica de Orchestra
+Facultatea de Sport,Kineto-terapie,Basket,Baseball
